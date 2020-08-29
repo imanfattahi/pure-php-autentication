@@ -1,0 +1,10 @@
+body{ 
+    font: 14px sans-serif;
+    padding: 80px 0;
+ }
+.card-img-top {
+    max-width: 90%;
+}
+.help-block {
+    color: orange;
+}
